@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\bin\Debug\netcoreapp3.1\Inkapsylacia.exe
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\bin\Debug\netcoreapp3.1\Inkapsylacia.deps.json
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\bin\Debug\netcoreapp3.1\Inkapsylacia.runtimeconfig.json
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\bin\Debug\netcoreapp3.1\Inkapsylacia.runtimeconfig.dev.json
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\bin\Debug\netcoreapp3.1\Inkapsylacia.dll
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\bin\Debug\netcoreapp3.1\Inkapsylacia.pdb
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\obj\Debug\netcoreapp3.1\Inkapsylacia.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\obj\Debug\netcoreapp3.1\Inkapsylacia.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\obj\Debug\netcoreapp3.1\Inkapsylacia.AssemblyInfo.cs
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\obj\Debug\netcoreapp3.1\Inkapsylacia.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\obj\Debug\netcoreapp3.1\Inkapsylacia.dll
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\obj\Debug\netcoreapp3.1\Inkapsylacia.pdb
+C:\Users\user\source\repos\Inkapsylacia\Inkapsylacia\obj\Debug\netcoreapp3.1\Inkapsylacia.genruntimeconfig.cache
